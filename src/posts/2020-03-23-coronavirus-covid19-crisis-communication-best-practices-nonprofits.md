@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus (COVID-19) Crisis Communication Best Practices for Nonprofits"
-date: 2020-03-23T17:00
+source: "Prosper Strategies"
 ---
 
 An outbreak of the coronavirus acute respiratory disease (Novel Coronavirus 2019-nCoV / COVID-19) was first detected in mid-December, 2019 and is spreading rapidly throughout the world.
