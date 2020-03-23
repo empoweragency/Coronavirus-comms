@@ -2,8 +2,7 @@
 {% for post in collections.posts | reverse %}
     <li>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-        <time datetime="{{ post.date | dateToFormat('yyyy-LL-dd') }}">
-            ({{ post.date | dateToFormat(meta.dateFormat) }})
+            ({{ post.source }})
         </time>
     </li>
 {% endfor %}
