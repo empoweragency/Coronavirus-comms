@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus & Nonprofits: Resources for Responding to COVID-19"
-date: 2020-03-23T16:00
+source: "Wired Impact"
 ---
 
 As the coronavirus (COVID-19) pandemic moves around the globe and across communities, nonprofit organizations are tasked with ensuring safe operations while still carrying out their missions—and, in many cases, increasing their workload.
