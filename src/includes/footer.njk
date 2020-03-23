@@ -2,7 +2,7 @@
     {% if meta.contact.email %}
         <p><a href="mailto:{{ meta.contact.email }}">{{ meta.contact.email }}</a></p>
     {% endif %}
-    {% if meta.contact.telephone %}
-        <p><a href="tel:{{ meta.contact.telephone }}">{{ meta.contact.telephone }}</a></p>
+    {% if meta.contact.website %}
+        <p><a href="{{ meta.contact.website }}">{{ meta.contact.website }}</a></p>
     {% endif %}
 </footer>
