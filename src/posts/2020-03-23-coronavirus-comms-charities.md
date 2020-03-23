@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus comms for charities"
-source: "Madlin Sugden"
+source: "Madeleine Sugden"
 ---
 
 Coronavirus is dominating world news. Everyone should now be reviewing their ways of working to protect staff, doing risk assessments of the services they offer or their large-scale fundraising events, and also sharing information for the people they support.
