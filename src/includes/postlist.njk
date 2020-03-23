@@ -2,7 +2,7 @@
 {% for post in collections.posts | reverse %}
     <li>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-            ({{ post.source }})
+            ({{ post.data.source }})
         </time>
     </li>
 {% endfor %}
