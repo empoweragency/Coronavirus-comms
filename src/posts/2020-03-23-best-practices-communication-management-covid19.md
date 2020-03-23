@@ -1,5 +1,5 @@
 ---
-tite: "Best Practices for Communication Management of COVID-19"
+title: "Best Practices for Communication Management of COVID-19"
 source: "prboutiques.com"
 ---
 
@@ -125,3 +125,5 @@ According to [*The New York Times*](https://www.nytimes.com/2020/02/27/podcasts
 **Vice: **[As an ER Doctor, I Need You to Know These Things About Coronavirus](https://www.vice.com/en_us/article/884d35/er-doctor-healthcare-workers-coronavirus)
 
 **The Verge: **[How to make your own hand sanitizer](https://www.theverge.com/2020/3/2/21161346/hand-sanitizer-diy-how-to-hand-wash-cdc-alcohol-virus-illness)
+
+This article originally appeared on PR Boutiques: https://prboutiques.com/best-practices-for-communication-management-of-covid-19/
