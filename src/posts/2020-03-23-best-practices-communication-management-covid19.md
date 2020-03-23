@@ -1,6 +1,6 @@
 ---
-tite:"Best Practices for Communication Management of COVID-19"
-source:"prboutiques.com"
+tite: "Best Practices for Communication Management of COVID-19"
+source: "prboutiques.com"
 ---
 
 ![](https://prboutiques.com/wp-content/uploads/2020/03/iStock-1205573573.jpg?_t=1583426873)
