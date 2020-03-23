@@ -1,5 +1,7 @@
+---
 title: "Coronavirus comms for charities"
-date: 2020-03-23
+date: 2020-03-23T18:00
+---
 
 Coronavirus is dominating world news. Everyone should now be reviewing their ways of working to protect staff, doing risk assessments of the services they offer or their large-scale fundraising events, and also sharing information for the people they support.
 
@@ -9,8 +11,7 @@ Whatever your size of organisation or purpose, you will be meeting to plan how y
 
 Here are some useful links and good reads to help you manage your own charity's response.
 
-Writing about Covid19 for beneficiaries
----------------------------------------
+# Writing about Covid19 for beneficiaries
 
 Information about the virus is changing all the time. Keep an eye on official advice which is being updated on a daily basis and share / incorporate it into your comms:
 
@@ -27,7 +28,7 @@ If you are a health charity, one working with older people or one with public-ac
 
 Dan Slee says that "we have all become public health communicators whether we like it or not". In his post ([The basics of communicating the coronavirus](https://danslee.wordpress.com/2020/03/02/share-right-the-basics-of-communicating-the-coronavirus/)), he shares lots of useful tips about making sure your information is factual and shareable. And also notes that your comms need to go where the people are as rumour and misinformation circulate (see [Enlist a team to play whack-a-mole with online rumour](https://danslee.wordpress.com/2020/03/06/coronavirus-comms-youll-need-to-enlist-a-team-to-play-whack-a-mole-with-online-rumour/) and [How covid is playing out in Facebook groups](https://danslee.wordpress.com/2020/03/12/viral-message-heres-how-coronavirus-is-playing-out-in-facebook-groups-so-you-can-connect-with-them/)).
 
-### Examples
+# Examples
 
 Here are some examples of information charities have created for the people they represent:
 
@@ -48,7 +49,7 @@ Here are some examples of information charities have created for the people they
 -   [PDSA](https://twitter.com/PDSA_HQ/status/1237442128520843264) addressed questions from pet owners about the impact of the virus on animals and their owners.
 -   Good Things Foundation released information about accessing digital healthcare -- to support people who may have to do this for the first time due to the virus. [Using the internet to get ready for coronavirus](https://www.goodthingsfoundation.org/areas-of-work/health-and-wellbeing).
 
-### Comms tips
+# Comms tips
 
 Think accessibility -- not everyone can read the text on an image. If you are sharing images with text on via social media, include a link to a web page where the same information can be read and/or repeat the text in your post. I have seen so many covid statements which are just images of text with no link (and probably no alt text). See more from [@CovidAccessInfo](https://twitter.com/CovidAccessInfo/) (new account set up on 19/3).
 
@@ -78,8 +79,7 @@ There may be a chance to stand out with some warmer comms:
 -   Monster Supplies -- the shop from Ministry of Stories -- promoted their [tins of escalating panic product](https://twitter.com/MonsterSupplies/status/1235475771327754240).
 -   Make your own office handwashing poster using [Wash Your Lyrics](https://washyourlyrics.com/).
 
-Running your organisation
--------------------------
+# Running your organisation
 
 Internally you will be looking at the impact of a wider spread of the virus and what this might mean for how you operate.
 
@@ -109,8 +109,7 @@ Reassuring staff and volunteers that you are prepared is key. Internal comms m
 
 What about your events or meetings? Many are being cancelled / postponed or changed to online. [Bond](https://www.bond.org.uk/events/conference-2020) announced the cancellation of their annual conference.
 
-Digital service delivery
-------------------------
+# Digital service delivery
 
 What does the situation mean for the services you run and the support people in your community might need? What might you need to do more of or change?
 
@@ -122,8 +121,7 @@ For example, can you move face-to-face services , online? What different service
 -   New: [free access to Slack](https://twitter.com/SlackHQ/status/1241057831018811400).
 -   New: [Getting started with video conferencing](https://twitter.com/wethecatalysts/status/1240220632933183488) -- The Catalyst have shared three guides (to Zoom, Google Hangouts and Skype Video).
 
-Community response
-------------------
+# Community response
 
 Here are some examples of community and charity-run services:
 
@@ -142,7 +140,7 @@ Here are some examples of community and charity-run services:
 
 If you are a community volunteering charity, how are you keeping volunteers in touch with how they might be needed? And reassuring them about measures you'll be taking to protect them?
 
-### Virtual working
+# Virtual working
 
 More people are switching to virtual working as a way to reduce risk. It can be a real shift for an organisation if you are not used to working like this. Here are some useful links:
 
@@ -154,7 +152,7 @@ More people are switching to virtual working as a way to reduce risk. It can be 
 -   [The ultimate guide to working from home, by freelancers who know](https://freelance-heroes.com/ultimate-guide-to-working-from-home-by-freelancers/) -- Freelance Heroes.
 -   Thread of [tips about working from home by Jon Arnold](https://twitter.com/jonmarnold/status/1235943203146272768) based on the experience of Tiny Tickers who operate remotely.
 
-### Fundraising
+# Fundraising
 
 Fundraising is being hit hard.
 
@@ -185,8 +183,7 @@ Charities are starting to send out appeals:
 
 ![Image from FareShare's homepage with their covid19 appeal](https://madlinblog.files.wordpress.com/2020/03/covidfareshare.jpg)
 
-Other good reads / useful links
--------------------------------
+# Other good reads / useful links
 
 -   Joe Freeman looks at how social platforms are signposting to trusted sources of information in his [Week Notes 35](https://medium.com/@josephfreeman/this-week-35-week-beginning-monday-2-march-870fc4ac48a2).
 -   [NHS takes action against coronavirus fake news online](https://twitter.com/NHSEngland/status/1237295909303656448) -- 10 March.
@@ -201,7 +198,7 @@ Other good reads / useful links
 -   [Data protection and coronavirus: what you need to know](https://ico.org.uk/for-organisations/data-protection-and-coronavirus/) -- guidance from ICO.
 -   Twitter release a [#handwashing emoji](https://twitter.com/DHSCgovuk/status/1238922034018766849).
 
-Archive:
+# Archive
 
 -   Many health charities shared information as the news spread. Look at examples from Asthma UK, Sue Ryder, Diabetes UK, Cystic Fibrosis Trusts, Sickle Cell Society, Crohn's and Colitis UK, Eczema Society, MS Society, British Liver Trust and more gathered in this [Twitter Moment from early March](https://twitter.com/i/moments/1234426967614730243).
 -   [Download resources from Public Health England](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/resources) -- includes posters, leaflets and guides.
